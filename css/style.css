@@ -1,3 +1,12 @@
 body {
     background-color: #882ef0;
 }
+.bg-body-light {
+    background-color:rgb(255, 255, 255)
+}
+.buttoncolor {
+    background-color:#882ef0;
+}
+.buttoncolor2 {
+    color:#f8f7f8;
+}
